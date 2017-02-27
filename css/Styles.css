@@ -1,11 +1,9 @@
-body {
-         background-color: #FF7F50;
-  }
+body{background-color:gold}
 
-  h1 {color: Red;
-   font-size: 250%;
-    text-align: center;
-  }
+h1,h2,h3,h4,h5 {font-family: "Raleway", red}
+
+
+
 p{
   font-style: italic;
      font-family: "Times New Roman", Georgia, Serif;
@@ -16,8 +14,6 @@ p{
     color: green;
 }
 
-h2 {
-    text-align:left;
 
 }
 
