@@ -1,5 +1,10 @@
-# evanskanyi.github.io
-## Evans Kanyi
-## Portifolio
-This Weeks work.
-To check mya work, visit https://github.com/EvansKanyi
+#My Portfolio 
+####By Evans Kanyi.
+###Description.
+
+Technologies Used:
+*HTML.
+*CSS.
+*JavaScript.
+*Bootstrap
+*Git.
