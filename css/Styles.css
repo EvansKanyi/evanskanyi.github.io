@@ -18,7 +18,7 @@ p{
     height: 50;
 }
 
-}
+.mySlides {display:none;}
 
 ul.topnav {
     list-style-type: none;
